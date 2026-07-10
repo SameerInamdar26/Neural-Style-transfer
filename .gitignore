@@ -1,0 +1,11 @@
+myenv/
+__pycache__/
+.vscode/
+static/uploads/*
+training_runs/
+
+content_data/*
+style_data/*
+
+!content_data/
+!style_data/
