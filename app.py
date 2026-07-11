@@ -37,6 +37,10 @@ encoder = VGGEncoder('encoder_weights.pth').to(device)
 decoder = Decoder().to(device)
 decoder.load_state_dict(torch.load('decoder_weights.pth', map_location=device))
 
+# for overcoming renders free services problem
+# encoder = torch.compile(encoder)
+# decoder = torch.compile(decoder)
+
 encoder.eval()
 decoder.eval()
 
