@@ -76,7 +76,7 @@ neural_style_transfer/
 ### Upload Interface
 ![Upload Interface](screenshots/dashboard.png)
 
-### Style Transfer Result
+### Style Transfer Process
 ![Style Transfer Result](screenshots/process.png)
 
 ### Style Transfer Result
