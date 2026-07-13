@@ -71,7 +71,7 @@ neural_style_transfer/
 
 ## 📸 Screenshots
 
-*[Add your screenshots here]*
+
 
 ### Upload Interface
 ![Upload Interface](screenshots/dashboard.png)
